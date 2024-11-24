@@ -1,0 +1,15 @@
+[submodule "Coursera-Week1-Percolation"]
+	path = Coursera-Week1-Percolation
+	url = https://github.com/pulgamecanica/Coursera-Week1-Percolation
+[submodule "Coursera-Week2-Deques-and-Randomized-Queues"]
+	path = Coursera-Week2-Deques-and-Randomized-Queues
+	url = https://github.com/pulgamecanica/Coursera-Week2-Deques-and-Randomized-Queues
+[submodule "Coursera-Week3-Collinear-Points"]
+	path = Coursera-Week3-Collinear-Points
+	url = https://github.com/pulgamecanica/Coursera-Week3-Collinear-Points
+[submodule "Coursera-Week4-8Puzzle"]
+	path = Coursera-Week4-8Puzzle
+	url = https://github.com/pulgamecanica/Coursera-Week4-8Puzzle
+[submodule "Coursera-Week5-Kd-Trees"]
+	path = Coursera-Week5-Kd-Trees
+	url = https://github.com/pulgamecanica/Coursera-Week5-Kd-Trees
